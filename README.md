@@ -1,4 +1,4 @@
-# Ejercicio-b-sico: Registro de estudiantes en un struct
+# Ejercicio básico: Registro de estudiantes en un struct
 Práctica clase POO 
 
 Código para almacenar información de una cierta cantidad de estudiantes.
