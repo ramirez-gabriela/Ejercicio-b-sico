@@ -14,3 +14,8 @@ Si el número de estudiantes es mayor que 0, se determina cuál estudiante tiene
 ### Práctica clase POO #2:
 * Polimorfismo
 * Herencia de clases
+* 
+### Práctica clase POO #3:
+Crear una clase llamada animal. Crea una app que permita alimentar un perro, un gato, un pez, que permita ponerlos a dormir, despertar, jugar, comer.
+Utilizar una clase padre Animal y clases hijas (Perro, Gato, Pez). 
+Antes de realizar una acción, debe verificar el estado del animal. Por ejemplo, para que un animal pueda jugar, primero debe estar depierto (estado=1). En caso de que esté dormido, el estado será (estado=0).
